@@ -1,4 +1,5 @@
 languageCode = "en-us"
+baseurl = "www.dataistanbul.org"
 title = "Data Istanbul"
 theme = "hugo-theme-air"
 
